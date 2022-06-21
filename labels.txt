@@ -1,0 +1,8 @@
+Car 
+Truck
+Biker
+Pedestrian
+Traffic Light Red
+Traffic Light Red Left
+Traffic Light Green
+Traffic Light Green Left
